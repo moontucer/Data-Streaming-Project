@@ -14,3 +14,6 @@ I used Airflow, PostgreSQL, Kafka, Spark and Cassandra in order to establish a f
   - `cd Data-Streaming-Project`
 - Build the environment with Docker Compose
   - `docker-compose up`
+
+## Link to the Medium article
+https://medium.com/@moontucer/data-streaming-project-real-time-end-to-end-data-pipeline

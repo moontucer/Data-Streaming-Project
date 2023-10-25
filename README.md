@@ -16,4 +16,4 @@ I used Airflow, PostgreSQL, Kafka, Spark and Cassandra in order to establish a f
   - `docker-compose up`
 
 ## Link to the Medium article
-https://medium.com/@moontucer/data-streaming-project-real-time-end-to-end-data-pipeline
+https://medium.com/@moontucer/data-streaming-project-real-time-end-to-end-data-pipeline-082f0d9cfbdb

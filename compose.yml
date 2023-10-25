@@ -197,5 +197,11 @@ services:
       - CASSANDRA_PASSWORD=cassandra
     networks:
       - confluent
+  myapp:
+    image: myapp:latest
+    depends_on:
+      - broker  # The service needs to wait for the Kafka broker
+    networks:
+      - confluent
 networks:
   confluent:

@@ -1,6 +1,6 @@
 ## Architecture
 
-![1698196520888](image/README/1698196520888.png)
+![1698196520888](image/architecture.png)
 
 ## Description
 
